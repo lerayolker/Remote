@@ -8,4 +8,5 @@
 git remote <имя репозитория> <url - адрес репозитория>
 
 git pull
+
 git push
